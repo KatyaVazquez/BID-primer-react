@@ -1,17 +1,7 @@
-*{
-  font-family: geometry; 
-}
-@font-face {
-  font-family: 'geometry';
-  src: url(/geometry_soft_pro/Geometry\ Soft\ Pro-Bold\ N.otf);
-  font-style: normal;
-  font-weight: normal;
-}
-
 
 body {
   margin: 0;
-  font-family: 'geometry'; 
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
