@@ -1,8 +1,17 @@
+*{
+  font-family: geometry; 
+}
+@font-face {
+  font-family: 'geometry';
+  src: url(/geometry_soft_pro/Geometry\ Soft\ Pro-Bold\ N.otf);
+  font-style: normal;
+  font-weight: normal;
+}
+
+
 body {
   margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
+  font-family: 'geometry'; 
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 }
